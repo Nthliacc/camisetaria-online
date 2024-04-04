@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Camisa Polo",
+        "price": 129.90,
+        "image": "https://picsum.photos/200/300?grayscale&random=1",
+        "stock": 5,
+        "rating": 4.5,
+        "colors": ["blue", "white", "black", "red"],
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "description": "Camisa Polo da marca X, disponível em diversas cores e tamanhos"
+      },
+      {
+        "id": "2",
+        "name": "Camisa Social",
+        "price": 99.90,
+        "image": "https://picsum.photos/200/300?grayscale&random=2",
+        "stock": 10,
+        "rating": 4.0,
+        "colors": ["blue", "white", "black", "red"],
+        "sizes": ["S", "M","XXL"],
+        "description": "Camisa Social da marca Y, disponível em diversas cores e tamanhos"
+      },
+      {
+        "id": "3",
+        "name": "Camisa Social 2",
+        "price": 149.90,
+        "image": "https://picsum.photos/200/300?grayscale&random=3",
+        "stock": 7,
+        "rating": 4.5,
+        "colors": ["blue", "black"],
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "description": "Calça Jeans da marca Z, disponível em diversas cores e tamanhos"
+      },
+      {
+        "id": "4",
+        "name": "Camisa Jeans",
+        "price": 199.90,
+        "image": "https://picsum.photos/200/300?grayscale&random=4",
+        "stock": 3,
+        "rating": 4.5,
+        "colors": ["blue", "white", "black", "red", "green"],
+        "sizes": ["XXS", "XS", "S", "M", "L", "XL", "XXL"],
+        "description": "Tênis da marca W, disponível em diversas cores e tamanhos"
+      },
+      {
+        "id": "5",
+        "name": "Camisa Estampada",
+        "price": 79.90,
+        "image": "https://picsum.photos/200/300?grayscale&random=5",
+        "stock": 2,
+        "rating": 4,
+        "colors": ["red", "green"],
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "description": "Camisa Estampada da marca V, disponível em diversas cores e tamanhos"
+      }
+    ]
+  }
+  
